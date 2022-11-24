@@ -1,1 +1,2 @@
-Git github ikincii gun ilk deneme
+Git github ikinci gun ilk deneme
+Git github ikinci gun ikinci deneme
